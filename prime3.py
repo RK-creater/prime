@@ -1,4 +1,4 @@
-#module for calculating and accessing primes, etc.
+
 from sys import getsizeof
 from math import ceil, floor
 from Combinatorics.combinatorics import m_way_unordered_combinations
